@@ -2,7 +2,7 @@ Web Poacher (v1.0)
 
 This is a pet project I created to help me find hotspots for particular fish species, to help locate good places to go fishing.
 
-In its current iteration it is a very basic script, with the following workflow:
+In its current iteration it is a very basic Jupyter notebook, with the following workflow:
 
 - Define a primary keyword (fish species) and a list of prefix keywords that act as modifiers for the primary keyword.
 - Download the results of a google image search for each combination of prefix and primary keyword
