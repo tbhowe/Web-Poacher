@@ -8,7 +8,7 @@ In its current iteration it is a very basic Jupyter notebook, with the following
 - Download the results of a google image search for each combination of prefix and primary keyword
 - scrape GPS tags from the EXIF metadata of each image.
 - clean the data, such that any images outside of the area of interest (England and Wales) are removed.
-- plot the valid data points on a map.
+- plot the valid data points on a map using GeoPANDAS. The map includes shapefiles of England and Wales, as well as of the major rivers. These came from the Environment Agency (https://data.gov.uk/dataset/4ae8ba46-f9a4-47d0-8d93-0f93eb494540/statutory-main-river-map)
 
 
 There are a number of shortcomings with the current iteration, some easier to work around than others.
